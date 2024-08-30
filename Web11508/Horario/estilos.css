@@ -1,0 +1,59 @@
+
+/* Materia del área Arquitectura de Computadoras. */
+.rosa{
+    background-color: pink;
+}
+
+/* Materias del área de Programación e Ingeniería de Software. */
+.azul{
+    background-color: aqua;
+}
+
+/* Materia del área de Matemáticas. */
+.verde{
+    background-color: green;
+}
+
+/* Materia de entorno social. */
+.amarillo{
+    background-color: yellow;
+}
+
+/* Muestra todas las horas libres */
+.rojo{
+    background-color: red;
+}
+
+/* Estilo para las viñetas */
+.bullet {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+/* Materia del área Arquitectura de Computadoras. */
+.viñetaRosa {
+    background-color: pink;
+}
+
+/* Materias del área de Programación e Ingeniería de Software. */
+.viñetaAzul {
+    background-color: aqua;
+}
+
+/* Materia del área de Matemáticas. */
+.viñetaVerde {
+    background-color: green;
+}
+
+/* Materia de entorno social. */
+.viñetaAmarillo {
+    background-color: yellow;
+}
+
+/* Muestra todas las horas libres */
+.viñetaRoja {
+    background-color: red;
+}
