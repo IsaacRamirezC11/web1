@@ -1,0 +1,26 @@
+.pagina{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(201,9,214,1) 100%, rgba(0,212,255,1) 100%);
+}
+
+.pag2{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(179,0,255,1) 0%, rgba(236,19,158,1) 4%, rgba(130,47,124,1) 26%, rgba(229,8,255,1) 96%, rgba(179,0,255,1) 100%);
+    text-align: center;
+    font-size: 3em;
+    color: rgb(255, 255, 255);
+}
+
+.cuadro{
+    background-color: #fffeff;
+    width: 150px;
+    margin: 0 auto;
+    border: 20px solid rgb(238, 200, 233);
+    border-radius: 20px;
+}
+
+.texto{
+    text-align: center;
+    font-size: 3em;
+    color: rgb(255, 255, 255);
+}
